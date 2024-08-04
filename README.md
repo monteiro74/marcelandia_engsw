@@ -183,9 +183,9 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 ---
 ## 7. Unidade de avaliação:
 
-Avaliação 1: //2024 <br>
-Avaliação 2: //2024 <br>
-Avaliação 3: //2024 <br>
+Avaliação 1: 09/08/2024 <br>
+Avaliação 2: 12/08/2024 <br>
+Avaliação 3: 17/08/2024 <br>
 
 ---
 ## 8. Referências:

@@ -10,10 +10,10 @@ Turma de Marcelândia.
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-mar-016---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
-    - [1.3. Ementa:](#13-ementa)
-    - [1.4. Metodologia:](#14-metodologia)
-    - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
-    - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
+    - [1.2. Ementa:](#12-ementa)
+    - [1.3. Metodologia:](#13-metodologia)
+    - [1.4. Procedimentos de avaliação de aprendizagem:](#14-procedimentos-de-avaliação-de-aprendizagem)
+    - [1.5. Horário de atendimento:](#15-horário-de-atendimento)
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
@@ -49,17 +49,17 @@ Turma de Marcelândia.
 
 ### 1.1. Carga Horária Total: 60
 
-### 1.3. Ementa: 
+### 1.2. Ementa: 
 
 Processos de software. Métodos tradicionais de análise de sistemas. Métodos ágeis de análise e desenvolvimento de software. Introdução a UML. Projeto de Software.
 
-### 1.4. Metodologia:
+### 1.3. Metodologia:
 
 Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
 Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio 
 
-### 1.5. Procedimentos de avaliação de aprendizagem: 
+### 1.4. Procedimentos de avaliação de aprendizagem: 
 
 Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
@@ -67,7 +67,7 @@ A carga horária EAD será realizada via leitura de artigos postados pelo profes
 
 A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá o conteúdo das aulas 6 a 9, a 3ª avaliação terá o conteúdo das aulas 11 a 13 e os artigos selecionados. Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
-### 1.6. Horário de atendimento:
+### 1.5. Horário de atendimento:
 
 30 minutos antes da aula (via agendamento prévio).
 
@@ -78,7 +78,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | --- | --- |
 | Site do professor | https://www.pontodeensino.com/ |
 | Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
-| Sites das disciplinas no github | https://github.com/monteiro74/aulas_2024_1 |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
 
 

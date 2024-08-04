@@ -17,10 +17,8 @@ Turma de Marcelândia.
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Exercício](#41-exercício)
-    - [4.2. Exercício 2](#42-exercício-2)
-    - [4.3. Diagrama entidade relacionamento](#43-diagrama-entidade-relacionamento)
-    - [4.4. Exemplos de documentações](#44-exemplos-de-documentações)
+    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
+    - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
@@ -116,25 +114,12 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4.1. Exercício
-
-Exercício 1:
-
-
-...mais detalhes, continua nos slides da aula 8 !!!
-
-### 4.2. Exercício 2
-
-
----
-### 4.3. Diagrama entidade relacionamento
+### 4.1. Diagrama entidade relacionamento
 
 Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
 
-
-
 ---
-### 4.4. Exemplos de documentações
+### 4.2. Exemplos de documentações
 
 Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
 

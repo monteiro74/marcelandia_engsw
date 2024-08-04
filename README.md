@@ -120,6 +120,8 @@ Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase
 
 [O banco de dados é composto por 2 tabelas](https://github.com/monteiro74/marcelandia_engsw/blob/main/marcelandia.sql).
 
+![https://github.com/monteiro74/marcelandia_engsw/blob/main/Marcelandia.png?raw=true](https://github.com/monteiro74/marcelandia_engsw/blob/main/Marcelandia.png?raw=true)
+
 ---
 ### 4.2. Exemplos de documentações
 

@@ -8,9 +8,8 @@ Turma de Marcelândia.
 
 - [marcelandia\_engsw](#marcelandia_engsw)
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
-  - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20242)
+  - [1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-mar-016---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
-    - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
     - [1.3. Ementa:](#13-ementa)
     - [1.4. Metodologia:](#14-metodologia)
     - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
@@ -46,13 +45,9 @@ Turma de Marcelândia.
 
 
 ---
-## 1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
+## 1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
 
 ### 1.1. Carga Horária Total: 60
-
-### 1.2. Horário: 19hs - 22hs
-
-5N231, Quinta feira, Sala C8 - Fase 4.
 
 ### 1.3. Ementa: 
 
@@ -107,21 +102,18 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | ------- | ------- |
-| Aula 1: |  |
-| Aula 2: |  |
-| Aula 3: |  |
-| Aula 4: |  |
-| Aula 5: |  |
-| Aula:   |  |
-| Aula 6: |  |
-| Aula 7: |   |
-| Aula 8: |  |
-| Aula 9: |   |
-| Aula 10:|  |
-| Aula 11:|  |
-| Aula 12:|  |
-| Aula 13: |  |
-| Aula 14: |  |
+| Aula 1: (05/agosto) |  |
+| Aula 2: (06/agosto) |  |
+| Aula 3: (07/agosto) |  |
+| Aula 4: (08/agosto) |  |
+| Aula 5: (09/agosto) |  |
+| Aula 6: (10/agosto) |  |
+| Aula 7: (12/agosto) |   |
+| Aula 8: (13/agosto) |  |
+| Aula 9: (14/agosto) |   |
+| Aula 10: (15/agosto) |  |
+| Aula 11: (16/agosto) |  |
+| Aula 12: (17/agosto) |  |
 
 
 ---

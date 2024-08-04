@@ -118,6 +118,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
 
+[O banco de dados é composto por 2 tabelas](https://github.com/monteiro74/marcelandia_engsw/blob/main/marcelandia.sql).
+
 ---
 ### 4.2. Exemplos de documentações
 

@@ -101,18 +101,18 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | ------- | ------- |
-| Aula 1: (05/agosto) |  |
-| Aula 2: (06/agosto) |  |
-| Aula 3: (07/agosto) |  |
-| Aula 4: (08/agosto) |  |
-| Aula 5: (09/agosto) |  |
-| Aula 6: (10/agosto) |  |
-| Aula 7: (12/agosto) |   |
-| Aula 8: (13/agosto) |  |
-| Aula 9: (14/agosto) |   |
-| Aula 10: (15/agosto) |  |
-| Aula 11: (16/agosto) |  |
-| Aula 12: (17/agosto) |  |
+| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. |
+| Aula 2: (06/agosto) | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
+| Aula 3: (07/agosto) | Revisão de UML, processo de desenvolvimento OO. |
+| Aula 4: (08/agosto) | Linguagens de programação, Ferramentas CASE + IDE, Arquitetura do app. |
+| Aula 5: (09/agosto) | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
+| Aula 6: (10/agosto) | Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. |
+| Aula 7: (12/agosto) | Arquitetura, módulos, fluxo, camadas, componente.  |
+| Aula 8: (13/agosto) | Métodos RAD. |
+| Aula 9: (14/agosto) | Documentação de software.  |
+| Aula 10: (15/agosto) | Qualidade de software. |
+| Aula 11: (16/agosto) | Projetos ERP, IoT, dashboards, web+mobile. |
+| Aula 12: (17/agosto) | Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 
 ---

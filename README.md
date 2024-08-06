@@ -72,6 +72,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ## 2. Sites utilizados:
 
+Isto é um comentário.
+
 | Sites utilizados | Url |
 | --- | --- |
 | Site do professor | https://www.pontodeensino.com/ |

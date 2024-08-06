@@ -20,6 +20,7 @@ Turma de Marcelândia.
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
+  - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
@@ -160,6 +161,16 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [UML Designer](https://www.umldesigner.org/download/)
 
+## 5.1. Ferramentas para serem usadas em lab
+
+1. git
+2. Github desktop
+3. Visual studio code
+4. Laragon
+5. Scriptcase
+6. HeidiSQL
+7. Star UML
+   
 
 ---
 ## 6. Artigos:

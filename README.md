@@ -163,13 +163,17 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 ## 5.1. Ferramentas para serem usadas em lab
 
-1. git
-2. Github desktop
-3. Visual studio code
-4. Laragon
-5. Scriptcase
-6. HeidiSQL
-7. Star UML
+** Atualização **
+
+1. Laragon https://laragon.org/download/
+2. HeidiSQL https://www.heidisql.com/download.php
+3. DBeaver Community https://dbeaver.io/download/
+4. StarUML https://staruml.io/download/
+5. Draw.io https://github.com/jgraph/drawio-desktop/releases/tag/v24.7.5
+6. Github desktop https://desktop.github.com/download/
+7. Git https://git-scm.com/download/win
+8. Visual Studio Code https://code.visualstudio.com/download
+9. Scriptcase https://www.scriptcase.com.br/download/ 
    
 
 ---

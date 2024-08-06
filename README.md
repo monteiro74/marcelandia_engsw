@@ -163,7 +163,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 ## 5.1. Ferramentas para serem usadas em lab
 
-** Atualização **
+**Atualização!**
 
 1. Laragon https://laragon.org/download/
 2. HeidiSQL https://www.heidisql.com/download.php

@@ -102,7 +102,7 @@ Isto é um comentário.
 
 | Data    | Conteúdo |
 | ------- | ------- |
-| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. |
+| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1) |
 | Aula 2: (06/agosto) | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
 | Aula 3: (07/agosto) | Revisão de UML, processo de desenvolvimento OO. |
 | Aula 4: (08/agosto) | Linguagens de programação, Ferramentas CASE + IDE, Arquitetura do app. |

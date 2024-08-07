@@ -32,8 +32,6 @@ Turma de Marcelândia.
 
 
 
-
-
 ---
 ## 1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
 
@@ -71,8 +69,10 @@ Isto é um comentário.
 | Site do professor | https://www.pontodeensino.com/ |
 | Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
-
-
+| Curso tutorial python | https://github.com/monteiro74/tutorial_python |
+| Aprendizado de máquina | https://github.com/monteiro74/aprendizado_de_maquina |
+| Exemplo de documentação feita com Doxygen | https://github.com/monteiro74/documentacao_doxygen |
+| Documentação em UML feita com Star UML | https://github.com/monteiro74/documentacao_uml |
 
 ---
 ## 3. Repositórios de apoio:

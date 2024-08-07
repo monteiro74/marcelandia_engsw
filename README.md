@@ -21,6 +21,7 @@ Turma de Marcelândia.
     - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
+  - [5.2. Grupos no telegram](#52-grupos-no-telegram)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
@@ -28,7 +29,6 @@ Turma de Marcelândia.
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
   - [11. Cursos gratuítos:](#11-cursos-gratuítos)
   - [12. Como estudar](#12-como-estudar)
-
 
 
 
@@ -47,7 +47,7 @@ Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/prátic
 
 Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio 
 
-### 1.4. Procedimentos de avaliação de aprendizagem: 
+### 1.4. Procedimentos de avaliação de aprendizagem:
 
 Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
@@ -75,7 +75,6 @@ Isto é um comentário.
 | Documentação em UML feita com Star UML | https://github.com/monteiro74/documentacao_uml |
 
 
-
 ---
 ## 3. Repositórios de apoio:
 | Repositório | Url |
@@ -93,7 +92,7 @@ Isto é um comentário.
 
 | Data    | Conteúdo |
 | ------- | ------- |
-| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1) |
+| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1). |
 | Aula 2: (06/agosto) | Processos de software, processos ágeis, análise de requisitos, arquitetura de uma aplicação. [Slides da aula 2](https://docs.google.com/presentation/d/1aQWEeHSMjQSEMHk92SchzaNlln6FhmrLifGMV9Zzr_Q/view).|
 | Aula 3: (07/agosto) | Revisão de UML, processo de desenvolvimento OO. |
 | Aula 4: (08/agosto) | Linguagens de programação, Ferramentas CASE + IDE, Arquitetura do app. |
@@ -153,8 +152,6 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 ## 5.1. Ferramentas para serem usadas em lab
 
-**Atualização!**
-
 1. Laragon https://laragon.org/download/
 2. HeidiSQL https://www.heidisql.com/download.php
 3. DBeaver Community https://dbeaver.io/download/
@@ -164,7 +161,24 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 7. Git https://git-scm.com/download/win
 8. Visual Studio Code https://code.visualstudio.com/download
 9. Scriptcase https://www.scriptcase.com.br/download/ 
-   
+
+
+## 5.2. Grupos no telegram
+
+|Grupo | Link no telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |
 
 ---
 ## 6. Artigos:

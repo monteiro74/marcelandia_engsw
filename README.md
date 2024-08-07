@@ -24,11 +24,10 @@ Turma de Marcelândia.
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
-  - [9. Demais Disciplinas:](#9-demais-disciplinas)
-  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
-  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
-  - [13. Como estudar](#13-como-estudar)
+  - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
+  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
+  - [11. Cursos gratuítos:](#11-cursos-gratuítos)
+  - [12. Como estudar](#12-como-estudar)
 
 
 
@@ -192,27 +191,21 @@ Avaliação 3: 17/08/2024 <br>
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
 
-## 9. Demais Disciplinas:
-
-1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
-2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
-3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
-
 
 ---
-## 10. Lista de ferramentas:
+## 9. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 11. Curiosidade... onde adquirir livros baratos? 
+## 10. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 12. Cursos gratuítos:
+## 11. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -222,7 +215,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 13. Como estudar
+## 12. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 

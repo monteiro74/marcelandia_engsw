@@ -182,7 +182,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
 | SQL Server GO | https://t.me/SQLServerGO |
 
-Outros grupos de ofertas de peças, memórias, e equipamentos no Telegram:
+Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 
 |Grupo | Link no Telegram |
 | --- | --- |

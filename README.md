@@ -29,14 +29,6 @@ Turma de Marcelândia.
   - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
   - [12. Cursos gratuítos:](#12-cursos-gratuítos)
   - [13. Como estudar](#13-como-estudar)
-  - [14. Resolução de exercícios:](#14-resolução-de-exercícios)
-    - [14.1. Descrição do exercício:](#141-descrição-do-exercício)
-    - [14.2. Diagrama ER](#142-diagrama-er)
-    - [14.3. Class diagram](#143-class-diagram)
-    - [14.4.  Sequence diagram](#144--sequence-diagram)
-    - [14.5.  Flow Chart](#145--flow-chart)
-    - [14.6.  Use Case Diagram](#146--use-case-diagram)
-    - [14.7.  Deployment diagram](#147--deployment-diagram)
 
 
 
@@ -95,15 +87,13 @@ Isto é um comentário.
 | Projeto com Evolus Pencil | https://github.com/monteiro74/prototipacao_mobile_evoluspencil |
 
 
-
-
 ---
 ## 4. Datas de aulas e conteúdo:<br>
 
 | Data    | Conteúdo |
 | ------- | ------- |
 | Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1) |
-| Aula 2: (06/agosto) | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
+| Aula 2: (06/agosto) | Processos de software, processos ágeis, análise de requisitos, arquitetura de uma aplicação. [Slides da aula 2](https://docs.google.com/presentation/d/1aQWEeHSMjQSEMHk92SchzaNlln6FhmrLifGMV9Zzr_Q/view).|
 | Aula 3: (07/agosto) | Revisão de UML, processo de desenvolvimento OO. |
 | Aula 4: (08/agosto) | Linguagens de programação, Ferramentas CASE + IDE, Arquitetura do app. |
 | Aula 5: (09/agosto) | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
@@ -114,7 +104,6 @@ Isto é um comentário.
 | Aula 10: (15/agosto) | Qualidade de software. |
 | Aula 11: (16/agosto) | Projetos ERP, IoT, dashboards, web+mobile. |
 | Aula 12: (17/agosto) | Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
-
 
 ---
 ### 4.1. Diagrama entidade relacionamento
@@ -236,47 +225,4 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 ## 13. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
-
-
-
----
-## 14. Resolução de exercícios:
-
-### 14.1. Descrição do exercício:
-
-...
-
-Para a descrição a faça em markdown:
-1. ER Diagram
-2. Class diagram
-3. Sequence diagram
-4. Flow Chart
-5. Activity diagram
-6. Deployment diagram
-
-
----
-### 14.2. Diagrama ER
-   
-
----
-### 14.3. Class diagram
-
-
----
-### 14.4.  Sequence diagram
-
-
----
-### 14.5.  Flow Chart
-
-
----
-### 14.6.  Use Case Diagram
-
-
-
-
----
-### 14.7.  Deployment diagram
 

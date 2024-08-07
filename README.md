@@ -21,7 +21,7 @@ Turma de Marcelândia.
     - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
-  - [5.2. Grupos no telegram](#52-grupos-no-telegram)
+  - [5.2. Grupos no Telegram](#52-grupos-no-telegram)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
@@ -152,20 +152,22 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 ## 5.1. Ferramentas para serem usadas em lab
 
-1. Laragon https://laragon.org/download/
-2. HeidiSQL https://www.heidisql.com/download.php
-3. DBeaver Community https://dbeaver.io/download/
-4. StarUML https://staruml.io/download/
-5. Draw.io https://github.com/jgraph/drawio-desktop/releases/tag/v24.7.5
-6. Github desktop https://desktop.github.com/download/
-7. Git https://git-scm.com/download/win
-8. Visual Studio Code https://code.visualstudio.com/download
-9. Scriptcase https://www.scriptcase.com.br/download/ 
+| Ferramenta | Url |
+| --- | --- |
+| 1. Laragon | https://laragon.org/download/ |
+| 2. HeidiSQL | https://www.heidisql.com/download.php |
+| 3. DBeaver Community | https://dbeaver.io/download/ |
+| 4. StarUML | https://staruml.io/download/ |
+| 5. Draw.io | https://github.com/jgraph/drawio-desktop/releases/tag/v24.7.5 |
+| 6. Github desktop | https://desktop.github.com/download/ |
+| 7. Git | https://git-scm.com/download/win |
+| 8. Visual Studio Code | https://code.visualstudio.com/download |
+| 9. Scriptcase | https://www.scriptcase.com.br/download/ |
 
 
-## 5.2. Grupos no telegram
+## 5.2. Grupos no Telegram
 
-|Grupo | Link no telegram |
+|Grupo | Link no Telegram |
 | --- | --- |
 | Vagas de TI para todos | https://t.me/vagastibr |
 | Flutterflow Brasil | https://t.me/flutterflowbrazil |

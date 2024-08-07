@@ -20,8 +20,8 @@ Turma de Marcelândia.
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
-  - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
-  - [5.2. Grupos no Telegram](#52-grupos-no-telegram)
+    - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
+    - [5.2. Grupos no Telegram](#52-grupos-no-telegram)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
@@ -150,7 +150,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [UML Designer](https://www.umldesigner.org/download/)
 
-## 5.1. Ferramentas para serem usadas em lab
+### 5.1. Ferramentas para serem usadas em lab
 
 | Ferramenta | Url |
 | --- | --- |
@@ -165,7 +165,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 9. Scriptcase | https://www.scriptcase.com.br/download/ |
 
 
-## 5.2. Grupos no Telegram
+### 5.2. Grupos no Telegram
 
 |Grupo | Link no Telegram |
 | --- | --- |

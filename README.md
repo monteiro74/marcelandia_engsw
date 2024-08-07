@@ -144,7 +144,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [Software Ideas Modeler](https://www.softwareideas.net/en/download)
 
-[StarUML](https://staruml.io/download/)
+[StarUML](https://staruml.io/download/) <<-- vamos usar esta !
 
 [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
 

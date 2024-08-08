@@ -42,3 +42,26 @@ CREATE TABLE `pets` (
 #
 
 INSERT INTO `pets` VALUES (1,'gato1',1,NULL,NULL,NULL,NULL,NULL),(2,'gato2',2,NULL,NULL,NULL,NULL,NULL),(3,'cao1',3,NULL,NULL,NULL,NULL,NULL),(4,'cao2',2,NULL,NULL,NULL,NULL,NULL),(5,'cao3',2,NULL,NULL,NULL,NULL,NULL),(6,'cao4',3,NULL,NULL,NULL,NULL,NULL),(7,'gato3',1,NULL,NULL,NULL,NULL,NULL);
+
+
+CREATE TABLE `agenda` (
+  `IdAgenda` int NOT NULL AUTO_INCREMENT,
+  `Titulo` varchar(50) DEFAULT NULL,
+  `DataInicio` date DEFAULT NULL,
+  `DataFim` date DEFAULT NULL,
+  `HoraInicio` time DEFAULT NULL,
+  `HoraFim` time DEFAULT NULL,
+  `Responsavel` varchar(50) DEFAULT NULL,
+  `Completado` int DEFAULT NULL,
+  `Observacao` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`IdAgenda`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf16le;
+
+
+CREATE TABLE `projetos` (
+  `IdProjeto` int NOT NULL AUTO_INCREMENT,
+  `Descricao` varchar(100) DEFAULT NULL,
+  `Valor` float(10,2) DEFAULT NULL,
+  `DataTermino` date DEFAULT NULL,
+  PRIMARY KEY (`IdProjeto`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf16le;

@@ -178,6 +178,8 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 7. Git | https://git-scm.com/download/win |
 | 8. Visual Studio Code | https://code.visualstudio.com/download |
 | 9. Scriptcase | https://www.scriptcase.com.br/download/ |
+| 10. Modelio | https://github.com/ModelioOpenSource/Modelio/releases/download/v5.4.1/Modelio-Open-Source-5.4.1_64.exe |
+| 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
 
 
 ### 5.2. Grupos no Telegram

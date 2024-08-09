@@ -55,7 +55,11 @@ Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por so
 
 A carga horária EAD será realizada via leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação  (e disponibilizado no site do professor e na página da disciplina no github).
 
-A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá o conteúdo das aulas 6 a 9, a 3ª avaliação terá o conteúdo das aulas 11 a 13 e os artigos selecionados. Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
+Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
+
+Avaliação 1: Prova multipla escolha, objetiva + reposítório no github.
+Avaliação 2: Entrega dos portfolios após a prova (o que será avaliado: 1. Lista de assuntos abordados; 2. Resumo do que aprendi; 3. Desenhos ou esquemas importantes).
+Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
 
 ### 1.5. Horário de atendimento:
 

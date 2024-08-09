@@ -97,8 +97,8 @@ Isto é um comentário.
 | Aula 3: (07/agosto) | [Intro UML](https://docs.google.com/presentation/d/1NazGkl_4HqJiu3ZA2aI4wOmdMHEl2gI8LvPkicgS9Dk/edit?usp=sharing), [Scrum + Kanban](https://docs.google.com/presentation/d/13lw0lJ_5PcvaKVwiCi77yQdOWBZs0-SsYVHqBC9hWgg/edit?usp=sharing), [Exercício](https://docs.google.com/presentation/d/1zWR_4vRr5TRqdaBJ9koRf8PThJB_xFvX_uhsnFdQIys/edit?usp=sharing). |
 | Aula 4: (08/agosto) | [Scrum + Kanban (continuação)](https://docs.google.com/presentation/d/1dhVjJTcgaKO8aiiCtA1u_28nIHg62wPr6MClcwK7UFg/edit?usp=view), [UML (continuação)](https://docs.google.com/presentation/d/1o6K2I3J_MaN1sN-xO8rBSALXaaVJ1eu-Z2g0mYdfBrU/edit?usp=view), [exercício (continuação)](https://docs.google.com/presentation/d/1pv7XMzqSB1sxMp7CvksF0chaXleyoD67A8xZrdQOyh0/edit?usp=view). |
 | Aula 5: (09/agosto) | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
-| Aula 6: (10/agosto) | Avaliação 1. Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. |
-| Aula 7: (12/agosto) | Arquitetura, módulos, fluxo, camadas, componente.  |
+| Aula 6: (10/agosto) | Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. |
+| Aula 7: (12/agosto) | Avaliação 1. Arquitetura, módulos, fluxo, camadas, componente.  |
 | Aula 8: (13/agosto) | Métodos RAD. |
 | Aula 9: (14/agosto) | Documentação de software.  |
 | Aula 10: (15/agosto) | Qualidade de software. |

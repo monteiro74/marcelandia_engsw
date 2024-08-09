@@ -238,11 +238,11 @@ Avaliação 3: 17/08/2024 <br>
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
 
-![]()
+![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG)
 
-![]()
+![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20002.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20002.PNG)
 
-![]()
+![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20003.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20003.PNG)
 
 ---
 ## 11. Curiosidade... onde adquirir livros baratos? 

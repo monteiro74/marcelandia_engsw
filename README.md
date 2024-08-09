@@ -24,6 +24,7 @@ Turma de Marcelândia.
     - [5.2. Grupos no Telegram](#52-grupos-no-telegram)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
+    - [7.1. Atividades para alunos em guarda religiosa:](#71-atividades-para-alunos-em-guarda-religiosa)
   - [8. Referências:](#8-referências)
   - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
@@ -209,6 +210,12 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 Avaliação 1: 09/08/2024 <br>
 Avaliação 2: 12/08/2024 <br>
 Avaliação 3: 17/08/2024 <br>
+
+### 7.1. Atividades para alunos em guarda religiosa:
+
+1. Para o dia 9/08/2024, o resumo do artigo 1, em PDF, via Sigaa, até 12/08/2024.
+2. Para o dia 16/09/2024, o resumo do artigo 2, em PDF, vai Sigaa, até 17/08/2024.
+
 
 ---
 ## 8. Referências:

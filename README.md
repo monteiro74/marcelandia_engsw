@@ -58,8 +58,11 @@ A carga horária EAD será realizada via leitura de artigos postados pelo profes
 Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
 Avaliação 1: Prova multipla escolha, objetiva + reposítório no github.
+
 Avaliação 2: Entrega dos portfolios após a prova (o que será avaliado: 1. Lista de assuntos abordados; 2. Resumo do que aprendi; 3. Desenhos ou esquemas importantes).
+
 Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
+
 
 ### 1.5. Horário de atendimento:
 

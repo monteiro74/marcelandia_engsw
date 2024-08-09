@@ -26,10 +26,11 @@ Turma de Marcelândia.
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
     - [7.1. Atividades para alunos em guarda religiosa:](#71-atividades-para-alunos-em-guarda-religiosa)
   - [8. Referências:](#8-referências)
-  - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
-  - [11. Cursos gratuítos:](#11-cursos-gratuítos)
-  - [12. Como estudar](#12-como-estudar)
+  - [9. Lista de ferramentas](#9-lista-de-ferramentas)
+  - [10. Extensões para VS Code](#10-extensões-para-vs-code)
+  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
+  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
+    - [12.1. Como estudar](#121-como-estudar)
 
 
 
@@ -227,21 +228,24 @@ Avaliação 3: 17/08/2024 <br>
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
 
-
 ---
-## 9. Lista de ferramentas:
+## 9. Lista de ferramentas
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 10. Curiosidade... onde adquirir livros baratos? 
+## 10. Extensões para VS Code
+
+
+---
+## 11. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 11. Cursos gratuítos:
+## 12. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -251,7 +255,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 12. Como estudar
+### 12.1. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 

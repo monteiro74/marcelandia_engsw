@@ -213,8 +213,8 @@ Avaliação 3: 17/08/2024 <br>
 
 ### 7.1. Atividades para alunos em guarda religiosa:
 
-1. Para o dia 9/08/2024, o resumo do artigo 1, em PDF, via Sigaa, até 12/08/2024.
-2. Para o dia 16/09/2024, o resumo do artigo 2, em PDF, vai Sigaa, até 17/08/2024.
+1. Para o dia 9/08/2024, o resumo do [artigo 1](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/), faça em PDF, envie via Sigaa, até 12/08/2024, com principal atenção: a seção "ATIVIDADES PARA SISTEMATIZAÇÃO DO LEVANTAMENTO DE REQUISITOS".
+2. Para o dia 16/09/2024, o resumo do [artigo 2](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/), faça em PDF, envie vai Sigaa, até 17/08/2024, com principal atenção: para explicar a relação entre UML e o RM-ODP.
 
 
 ---

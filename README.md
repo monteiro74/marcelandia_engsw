@@ -236,6 +236,13 @@ Avaliação 3: 17/08/2024 <br>
 ---
 ## 10. Extensões para VS Code
 
+![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
+
+![]()
+
+![]()
+
+![]()
 
 ---
 ## 11. Curiosidade... onde adquirir livros baratos? 

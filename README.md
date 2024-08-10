@@ -59,13 +59,7 @@ Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é 
 
 Avaliação 1: Prova multipla escolha, objetiva + reposítório no github reposítório no github compartilhado com o professor.
 
-Avaliação 2: Entrega dos portfolios após a prova (o que será avaliado: 1. Lista de assuntos abordados; 2. Resumo do que aprendi; 3. Desenhos ou esquemas importantes).
-
-Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
-
-
-
-Avaliação 2: Entrega dos portfolios após a prova (o que será avaliado: 1. Lista de assuntos abordados; 2. Resumo do que aprendi; 3. Desenhos ou esquemas importantes).
+Avaliação 2: Projeto de sistema (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema.
 
 Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
 

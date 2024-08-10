@@ -97,7 +97,7 @@ Avaliação 3: 17/08/2024 <br>
 | Aula 8: (13/agosto) | Métodos RAD. |
 | Aula 9: (14/agosto) | Documentação de software.  |
 | Aula 10: (15/agosto) | Qualidade de software. |
-| Aula 11: (16/agosto) | Avaliação 2. Projetos ERP, IoT, dashboards, web+mobile. |
+| Aula 11: (16/agosto) | Avaliação 3. Projetos ERP, IoT, dashboards, web+mobile. |
 | Aula 12: (17/agosto) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 

@@ -265,6 +265,8 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 ---
 ### 12.1. Extensões para VS Code
 
+**Alguns exemplos** de extenções para o Visual Studio Code que o professor utiliza:
+
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG)

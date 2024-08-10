@@ -60,7 +60,7 @@ Avaliação 1: Prova **escrita** multipla escolha, objetiva + reposítório no g
 
 Avaliação 2: Projeto de **"documento"** de sistema em markdown (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema.
 
-Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> documentado no github.
+Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> documentado no github (apresentado em sala).
 
 
 ---

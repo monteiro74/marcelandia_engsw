@@ -56,11 +56,11 @@ A carga horária EAD será realizada via leitura de artigos postados pelo profes
 
 Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
-Avaliação 1: Prova multipla escolha, objetiva + reposítório no github reposítório no github compartilhado com o professor.
+Avaliação 1: Prova **escrita** multipla escolha, objetiva + reposítório no github reposítório no github compartilhado com o professor.
 
-Avaliação 2: Projeto de sistema (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema.
+Avaliação 2: Projeto de **"documento"** de sistema em markdown (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema.
 
-Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
+Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> documentado no github.
 
 
 ---
@@ -92,13 +92,13 @@ Avaliação 3: 17/08/2024 <br>
 | Aula 3: (07/agosto) | [Intro UML](https://docs.google.com/presentation/d/1NazGkl_4HqJiu3ZA2aI4wOmdMHEl2gI8LvPkicgS9Dk/edit?usp=sharing), [Scrum + Kanban](https://docs.google.com/presentation/d/13lw0lJ_5PcvaKVwiCi77yQdOWBZs0-SsYVHqBC9hWgg/edit?usp=sharing), [Exercício](https://docs.google.com/presentation/d/1zWR_4vRr5TRqdaBJ9koRf8PThJB_xFvX_uhsnFdQIys/edit?usp=sharing). |
 | Aula 4: (08/agosto) | [Scrum + Kanban (continuação)](https://docs.google.com/presentation/d/1dhVjJTcgaKO8aiiCtA1u_28nIHg62wPr6MClcwK7UFg/edit?usp=view), [UML (continuação)](https://docs.google.com/presentation/d/1o6K2I3J_MaN1sN-xO8rBSALXaaVJ1eu-Z2g0mYdfBrU/edit?usp=view), [exercício (continuação)](https://docs.google.com/presentation/d/1pv7XMzqSB1sxMp7CvksF0chaXleyoD67A8xZrdQOyh0/edit?usp=view). |
 | Aula 5: (09/agosto) | Revisão de banco de dados, execução de scripts SQL, gerar modelo ER, edição de markdown, atualizar repositório no github, instalação de extensões no VS Code. |
-| Aula 6: (10/agosto) | Início da avaliação 2: (trabalho de diagramas deve ser colocado no github do aluno e compartilhado com o professor) --> Projeto de sistema (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema. [Enunciado do exercício](https://docs.google.com/document/d/1fQiaZJNjGhymjDUpWrbEQUu4cznKEuafAsjHP8jyuYE/edit?usp=view).|
-| Aula 7: (12/agosto) | Avaliação 1. Início do projeto de sistemas com ferramenta IDE RAD. Arquitetura, módulos, componente. |
-| Aula 8: (13/agosto) | Métodos RAD. |
-| Aula 9: (14/agosto) | Documentação de software.  |
-| Aula 10: (15/agosto) | Qualidade de software. |
-| Aula 11: (16/agosto) | Avaliação 3. Projetos ERP, IoT, dashboards, web+mobile. |
-| Aula 12: (17/agosto) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
+| Aula 6: (10/agosto, sábado) | Início da avaliação 2: (trabalho de diagramas deve ser colocado no github do aluno e compartilhado com o professor) --> Projeto de sistema (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema. [Enunciado do exercício](https://docs.google.com/document/d/1fQiaZJNjGhymjDUpWrbEQUu4cznKEuafAsjHP8jyuYE/edit?usp=view).|
+| Aula 7: (12/agosto) | Avaliação 1 (**prova escrita**). Início do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: arquitetura, módulos, componente, VM. |
+| Aula 8: (13/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Métodos RAD. |
+| Aula 9: (14/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Documentação de software.  |
+| Aula 10: (15/agosto) | Apresentação do projeto **rodando** desenvolvido com ferramenta IDE RAD (avaliação 3). Finalização do projeto de **documentação** e postagem final no github (avaliação 2). Outros assuntos: Qualidade de software. |
+| Aula 11: (16/agosto) | Projetos de ERP, IoT, dashboards, web+mobile. |
+| Aula 12: (17/agosto, sábado) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 
 ---

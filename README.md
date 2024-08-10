@@ -10,28 +10,27 @@ Turma de Marcelândia.
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-mar-016---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
-    - [1.2. Ementa:](#12-ementa)
-    - [1.3. Metodologia:](#13-metodologia)
-    - [1.4. Procedimentos de avaliação de aprendizagem:](#14-procedimentos-de-avaliação-de-aprendizagem)
-    - [1.5. Horário de atendimento:](#15-horário-de-atendimento)
-  - [2. Sites utilizados:](#2-sites-utilizados)
-  - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-  - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
-    - [4.2. Exemplos de documentações](#42-exemplos-de-documentações)
-  - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
-    - [5.1. Ferramentas para serem usadas em lab](#51-ferramentas-para-serem-usadas-em-lab)
-    - [5.2. Grupos no Telegram](#52-grupos-no-telegram)
-  - [6. Artigos:](#6-artigos)
-  - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
-    - [7.1. Atividades para alunos em guarda religiosa:](#71-atividades-para-alunos-em-guarda-religiosa)
-  - [8. Referências:](#8-referências)
-  - [9. Lista de ferramentas](#9-lista-de-ferramentas)
-  - [10. Extensões para VS Code](#10-extensões-para-vs-code)
-  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
-    - [12.1. Como estudar](#121-como-estudar)
-
+    - [1.2. Ementa](#12-ementa)
+    - [1.3. Metodologia](#13-metodologia)
+    - [1.4. Procedimentos de avaliação de aprendizagem](#14-procedimentos-de-avaliação-de-aprendizagem)
+      - [1.4.1 Unidade de avaliação](#141-unidade-de-avaliação)
+      - [1.4.2. Atividades para alunos em guarda religiosa](#142-atividades-para-alunos-em-guarda-religiosa)
+    - [1.5. Horário de atendimento](#15-horário-de-atendimento)
+  - [2. Datas de aulas e conteúdo](#2-datas-de-aulas-e-conteúdo)
+  - [3. Sites utilizados](#3-sites-utilizados)
+  - [4. Repositórios de apoio](#4-repositórios-de-apoio)
+  - [5. Diagrama entidade relacionamento (de exercício 1)](#5-diagrama-entidade-relacionamento-de-exercício-1)
+  - [6. Exemplos de documentações](#6-exemplos-de-documentações)
+  - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
+    - [7.1. Ferramentas para serem usadas em laboratório](#71-ferramentas-para-serem-usadas-em-laboratório)
+  - [8. Grupos no Telegram](#8-grupos-no-telegram)
+  - [9. Artigos](#9-artigos)
+  - [10. Referências](#10-referências)
+    - [10.1. Cursos gratuítos:](#101-cursos-gratuítos)
+  - [11. Lista de ferramentas](#11-lista-de-ferramentas)
+  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
+    - [12.1. Extensões para VS Code](#121-extensões-para-vs-code)
+    - [12.2. Como estudar](#122-como-estudar)
 
 
 ---
@@ -39,17 +38,17 @@ Turma de Marcelândia.
 
 ### 1.1. Carga Horária Total: 60
 
-### 1.2. Ementa: 
+### 1.2. Ementa
 
 Processos de software. Métodos tradicionais de análise de sistemas. Métodos ágeis de análise e desenvolvimento de software. Introdução a UML. Projeto de Software.
 
-### 1.3. Metodologia:
+### 1.3. Metodologia
 
 Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
 Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio 
 
-### 1.4. Procedimentos de avaliação de aprendizagem:
+### 1.4. Procedimentos de avaliação de aprendizagem
 
 Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
@@ -64,14 +63,47 @@ Avaliação 2: Projeto de sistema (exercício visto em sala) postado no github n
 Avaliação 3: Projeto de sistema no SC + BD MySQL --> documentado no github.
 
 
-### 1.5. Horário de atendimento:
+---
+#### 1.4.1 Unidade de avaliação
+
+Avaliação 1: 12/08/2024 <br>
+Avaliação 2: 16/08/2024 <br>
+Avaliação 3: 17/08/2024 <br>
+
+#### 1.4.2. Atividades para alunos em guarda religiosa
+
+1. Para o dia 9/08/2024, o resumo do [artigo 1(Definição de requisitos de software baseada numa arquitetura de modelagem de negócios)](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/), faça em PDF, envie via Sigaa, até 12/08/2024, com principal atenção: a seção "ATIVIDADES PARA SISTEMATIZAÇÃO DO LEVANTAMENTO DE REQUISITOS".
+
+2. Para o dia 16/09/2024, o resumo do [artigo 2(A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência)](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/), faça em PDF, envie vai Sigaa, até 17/08/2024, com principal atenção: para explicar a relação entre UML e o RM-ODP.
+
+
+
+### 1.5. Horário de atendimento
 
 30 minutos antes da aula (via agendamento prévio).
 
 ---
-## 2. Sites utilizados:
+## 2. Datas de aulas e conteúdo
 
-Isto é um comentário.
+| Data    | Conteúdo |
+| ------- | ------- |
+| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1). |
+| Aula 2: (06/agosto) | Processos de software, processos ágeis, análise de requisitos, arquitetura de uma aplicação. [Slides da aula 2](https://docs.google.com/presentation/d/1aQWEeHSMjQSEMHk92SchzaNlln6FhmrLifGMV9Zzr_Q/view).|
+| Aula 3: (07/agosto) | [Intro UML](https://docs.google.com/presentation/d/1NazGkl_4HqJiu3ZA2aI4wOmdMHEl2gI8LvPkicgS9Dk/edit?usp=sharing), [Scrum + Kanban](https://docs.google.com/presentation/d/13lw0lJ_5PcvaKVwiCi77yQdOWBZs0-SsYVHqBC9hWgg/edit?usp=sharing), [Exercício](https://docs.google.com/presentation/d/1zWR_4vRr5TRqdaBJ9koRf8PThJB_xFvX_uhsnFdQIys/edit?usp=sharing). |
+| Aula 4: (08/agosto) | [Scrum + Kanban (continuação)](https://docs.google.com/presentation/d/1dhVjJTcgaKO8aiiCtA1u_28nIHg62wPr6MClcwK7UFg/edit?usp=view), [UML (continuação)](https://docs.google.com/presentation/d/1o6K2I3J_MaN1sN-xO8rBSALXaaVJ1eu-Z2g0mYdfBrU/edit?usp=view), [exercício (continuação)](https://docs.google.com/presentation/d/1pv7XMzqSB1sxMp7CvksF0chaXleyoD67A8xZrdQOyh0/edit?usp=view). |
+| Aula 5: (09/agosto) | Revisão de banco de dados, execução de scripts SQL, gerar modelo ER, edição de markdown, atualizar repositório no github, instalação de extensões no VS Code. |
+| Aula 6: (10/agosto) | Início da avaliação 1 (trabalho deve ser colocado no github do aluno e compartilhado com o professor). |
+| Aula 7: (12/agosto) | Avaliação 1. Arquitetura, módulos, fluxo, camadas, componente.  |
+| Aula 8: (13/agosto) | Métodos RAD. |
+| Aula 9: (14/agosto) | Documentação de software.  |
+| Aula 10: (15/agosto) | Qualidade de software. |
+| Aula 11: (16/agosto) | Avaliação 2. Projetos ERP, IoT, dashboards, web+mobile. |
+| Aula 12: (17/agosto) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
+
+
+---
+## 3. Sites utilizados
+
 
 | Sites utilizados | Url |
 | --- | --- |
@@ -85,7 +117,7 @@ Isto é um comentário.
 
 
 ---
-## 3. Repositórios de apoio:
+## 4. Repositórios de apoio
 | Repositório | Url |
 | --- | --- |
 | Diagramas resumo de engenharia de software | https://github.com/monteiro74/diagramas_resumo |
@@ -96,26 +128,9 @@ Isto é um comentário.
 | Projeto com Evolus Pencil | https://github.com/monteiro74/prototipacao_mobile_evoluspencil |
 
 
----
-## 4. Datas de aulas e conteúdo:<br>
-
-| Data    | Conteúdo |
-| ------- | ------- |
-| Aula 1: (05/agosto) | Apresentação, Introdução à disciplina, conceitos iniciais. Engenharia de software, Análise de sistemas, analista de sistemas, processos de software, RUP. [Slides da aula 1](https://docs.google.com/presentation/d/1lj4virPGjnFFgsluvyEMNhHiBMecFaFqQPevuB6hNYs/view#slide=id.p1). |
-| Aula 2: (06/agosto) | Processos de software, processos ágeis, análise de requisitos, arquitetura de uma aplicação. [Slides da aula 2](https://docs.google.com/presentation/d/1aQWEeHSMjQSEMHk92SchzaNlln6FhmrLifGMV9Zzr_Q/view).|
-| Aula 3: (07/agosto) | [Intro UML](https://docs.google.com/presentation/d/1NazGkl_4HqJiu3ZA2aI4wOmdMHEl2gI8LvPkicgS9Dk/edit?usp=sharing), [Scrum + Kanban](https://docs.google.com/presentation/d/13lw0lJ_5PcvaKVwiCi77yQdOWBZs0-SsYVHqBC9hWgg/edit?usp=sharing), [Exercício](https://docs.google.com/presentation/d/1zWR_4vRr5TRqdaBJ9koRf8PThJB_xFvX_uhsnFdQIys/edit?usp=sharing). |
-| Aula 4: (08/agosto) | [Scrum + Kanban (continuação)](https://docs.google.com/presentation/d/1dhVjJTcgaKO8aiiCtA1u_28nIHg62wPr6MClcwK7UFg/edit?usp=view), [UML (continuação)](https://docs.google.com/presentation/d/1o6K2I3J_MaN1sN-xO8rBSALXaaVJ1eu-Z2g0mYdfBrU/edit?usp=view), [exercício (continuação)](https://docs.google.com/presentation/d/1pv7XMzqSB1sxMp7CvksF0chaXleyoD67A8xZrdQOyh0/edit?usp=view). |
-| Aula 5: (09/agosto) | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
-| Aula 6: (10/agosto) | Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. |
-| Aula 7: (12/agosto) | Avaliação 1. Arquitetura, módulos, fluxo, camadas, componente.  |
-| Aula 8: (13/agosto) | Métodos RAD. |
-| Aula 9: (14/agosto) | Documentação de software.  |
-| Aula 10: (15/agosto) | Qualidade de software. |
-| Aula 11: (16/agosto) | Avaliação 2. Projetos ERP, IoT, dashboards, web+mobile. |
-| Aula 12: (17/agosto) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 ---
-### 4.1. Diagrama entidade relacionamento
+## 5. Diagrama entidade relacionamento (de exercício 1)
 
 Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
 
@@ -124,7 +139,7 @@ Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/Marcelandia.png?raw=true](https://github.com/monteiro74/marcelandia_engsw/blob/main/Marcelandia.png?raw=true)
 
 ---
-### 4.2. Exemplos de documentações
+## 6. Exemplos de documentações
 
 Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
 
@@ -143,7 +158,7 @@ Site: https://monteiro74.github.io/documentacao_uml/
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ---
-## 5. Links para download de ferramentas para diagramação com UML:
+## 7. Ferramentas para diagramação com UML
 
 [Papyrus](https://eclipse.dev/papyrus/download.html)
 
@@ -159,7 +174,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [UML Designer](https://www.umldesigner.org/download/)
 
-### 5.1. Ferramentas para serem usadas em lab
+### 7.1. Ferramentas para serem usadas em laboratório
 
 | Ferramenta | Url |
 | --- | --- |
@@ -176,7 +191,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
 
 
-### 5.2. Grupos no Telegram
+## 8. Grupos no Telegram
 
 |Grupo | Link no Telegram |
 | --- | --- |
@@ -205,7 +220,7 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 
 
 ---
-## 6. Artigos:
+## 9. Artigos
 
 1. [Definição de requisitos de software baseada numa arquitetura de modelagem de negócios](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/)
 2. [A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/)
@@ -214,21 +229,9 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 5. [Interdisciplinaridade na Engenharia de Software](https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Engenharia_de_Software)
 
 
----
-## 7. Unidade de avaliação:
-
-Avaliação 1: 12/08/2024 <br>
-Avaliação 2: 16/08/2024 <br>
-Avaliação 3: 17/08/2024 <br>
-
-### 7.1. Atividades para alunos em guarda religiosa:
-
-1. Para o dia 9/08/2024, o resumo do [artigo 1(Definição de requisitos de software baseada numa arquitetura de modelagem de negócios)](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/), faça em PDF, envie via Sigaa, até 12/08/2024, com principal atenção: a seção "ATIVIDADES PARA SISTEMATIZAÇÃO DO LEVANTAMENTO DE REQUISITOS".
-2. Para o dia 16/09/2024, o resumo do [artigo 2(A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência)](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/), faça em PDF, envie vai Sigaa, até 17/08/2024, com principal atenção: para explicar a relação entre UML e o RM-ODP.
-
 
 ---
-## 8. Referências:
+## 10. Referências
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41<br>
 * SOMMERVILLE, Ian. Engenharia de Software. 9° Ed. São Paulo: Pearson, 2011.<br>
@@ -236,14 +239,31 @@ Avaliação 3: 17/08/2024 <br>
 * PAULA FILHO, Wilson de Pádua. Engenharia de Software: fundamentos, métodos e padrões. Rio de Janeiro: LTC, 2019. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788521636724/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4050:90 <br>
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
+---
+### 10.1. Cursos gratuítos:
+
+* [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
+
+* [Análise e Levantamento de Requisitos de Software](https://www.udemy.com/course/analise-de-requisitos-de-software/)
+
+* [Noções básicas de DA (Disciplined Agile) - Portuguese LatAm](https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197)
 
 ---
-## 9. Lista de ferramentas
+## 11. Lista de ferramentas
+
+
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 10. Extensões para VS Code
+## 12. Curiosidade... onde adquirir livros baratos? 
+A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
+
+Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
+
+
+---
+### 12.1. Extensões para VS Code
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
 
@@ -253,25 +273,10 @@ Avaliação 3: 17/08/2024 <br>
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20003.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20003.PNG)
 
----
-## 11. Curiosidade... onde adquirir livros baratos? 
-A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
-
-Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 12. Cursos gratuítos:
-
-* [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
-
-* [Análise e Levantamento de Requisitos de Software](https://www.udemy.com/course/analise-de-requisitos-de-software/)
-
-* [Noções básicas de DA (Disciplined Agile) - Portuguese LatAm](https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197)
-
-
----
-### 12.1. Como estudar
+### 12.2. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 

@@ -223,8 +223,8 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 ---
 ## 7. Unidade de avaliação:
 
-Avaliação 1: 09/08/2024 <br>
-Avaliação 2: 12/08/2024 <br>
+Avaliação 1: 12/08/2024 <br>
+Avaliação 2: 16/08/2024 <br>
 Avaliação 3: 17/08/2024 <br>
 
 ### 7.1. Atividades para alunos em guarda religiosa:

@@ -23,6 +23,7 @@ Turma de Marcelândia.
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
     - [7.1. Ferramentas para serem usadas em laboratório](#71-ferramentas-para-serem-usadas-em-laboratório)
+    - [7.2. Ferramentas para benchmar de hardware](#72-ferramentas-para-benchmar-de-hardware)
   - [8. Grupos no Telegram](#8-grupos-no-telegram)
   - [9. Artigos](#9-artigos)
   - [10. Referências](#10-referências)
@@ -160,19 +161,13 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 ---
 ## 7. Ferramentas para diagramação com UML
 
-[Papyrus](https://eclipse.dev/papyrus/download.html)
-
-[Modelio](https://www.modelio.org/index.htm)
-
-[WhiteStar](https://sourceforge.net/projects/whitestaruml/)
-
-[Software Ideas Modeler](https://www.softwareideas.net/en/download)
-
-[StarUML](https://staruml.io/download/) <<-- vamos usar esta !
-
-[Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
-
-[UML Designer](https://www.umldesigner.org/download/)
+1. [Papyrus](https://eclipse.dev/papyrus/download.html)
+2. [Modelio](https://www.modelio.org/index.htm)  <<-- vamos usar esta !
+3. [WhiteStar](https://sourceforge.net/projects/whitestaruml/)
+4. [Software Ideas Modeler](https://www.softwareideas.net/en/download)
+5. [StarUML](https://staruml.io/download/)
+6. [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
+7. [UML Designer](https://www.umldesigner.org/download/)
 
 ### 7.1. Ferramentas para serem usadas em laboratório
 
@@ -189,6 +184,18 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 9. Scriptcase | https://www.scriptcase.com.br/download/ |
 | 10. Modelio | https://github.com/ModelioOpenSource/Modelio/releases/download/v5.4.1/Modelio-Open-Source-5.4.1_64.exe |
 | 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
+
+
+### 7.2. Ferramentas para benchmar de hardware
+
+| Ferramenta | Url |
+| --- | --- |
+| 1. WindirStat | https://windirstat.net/ |
+| 2. CPU-Z | https://www.cpuid.com/softwares/cpu-z.html |
+| 3. Speccy | https://www.ccleaner.com/pt-br/speccy/download?srsltid=AfmBOorn4PsRAxwZslF8Pu-ZwXUODddkQOQg-dvQAVwPSDvFD8sGqUul |
+| 4. HWiNFO | https://www.hwinfo.com/download/ |
+| 5. HWMonitor | https://www.cpuid.com/softwares/hwmonitor.html |
+| 6. Revo uninstaller | https://www.revouninstaller.com/br/ 
 
 
 ## 8. Grupos no Telegram

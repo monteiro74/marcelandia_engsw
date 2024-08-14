@@ -70,7 +70,9 @@ Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> docume
 #### 1.4.1 Unidade de avaliação
 
 Avaliação 1: 12/08/2024
+
 Avaliação 2: 16/08/2024
+
 Avaliação 3: 17/08/2024
 
 #### 1.4.2. Atividades para alunos em guarda religiosa

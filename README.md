@@ -33,6 +33,7 @@ Turma de Marcelândia.
   - [13. Curiosidade... onde adquirir livros baratos?](#13-curiosidade-onde-adquirir-livros-baratos)
   - [14. Extensões para VS Code](#14-extensões-para-vs-code)
   - [15. Como estudar](#15-como-estudar)
+  - [16. Videos recomendados](#16-videos-recomendados)
 
 
 ---
@@ -306,4 +307,15 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 ## 15. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
+
+
+---
+## 16. Videos recomendados
+
+1. "NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024 https://www.youtube.com/watch?v=M-rlucvPG94
+
+2. Scrum Master é um Inútil (não é só sobre isso) https://www.youtube.com/watch?v=1eGSPUN0sj4
+
+3. TIOZÃO DA FEBRABAN TEM RAZÃO https://www.youtube.com/watch?v=Qjmmug9S3rI
+
 

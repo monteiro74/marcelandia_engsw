@@ -22,12 +22,13 @@ Turma de Marcelândia.
   - [5. Diagrama entidade relacionamento (de exercício 1)](#5-diagrama-entidade-relacionamento-de-exercício-1)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
-    - [7.1. Ferramentas para serem usadas em laboratório](#71-ferramentas-para-serem-usadas-em-laboratório)
-    - [7.2. Ferramentas para benchmar de hardware](#72-ferramentas-para-benchmar-de-hardware)
+    - [7.1. Ferramentas para laboratório](#71-ferramentas-para-laboratório)
+    - [7.2. Benchmar/info de hardware](#72-benchmarinfo-de-hardware)
   - [8. Grupos no Telegram](#8-grupos-no-telegram)
   - [9. Artigos](#9-artigos)
   - [10. Referências](#10-referências)
   - [11. Cursos gratuítos:](#11-cursos-gratuítos)
+    - [11.1. Cursos no ENAP](#111-cursos-no-enap)
   - [12. Lista de ferramentas](#12-lista-de-ferramentas)
   - [13. Curiosidade... onde adquirir livros baratos?](#13-curiosidade-onde-adquirir-livros-baratos)
   - [14. Extensões para VS Code](#14-extensões-para-vs-code)
@@ -169,7 +170,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 6. [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
 7. [UML Designer](https://www.umldesigner.org/download/)
 
-### 7.1. Ferramentas para serem usadas em laboratório
+### 7.1. Ferramentas para laboratório
 
 | Ferramenta | Url |
 | --- | --- |
@@ -186,7 +187,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
 
 
-### 7.2. Ferramentas para benchmar de hardware
+### 7.2. Benchmar/info de hardware
 
 | Ferramenta | Url |
 | --- | --- |
@@ -254,6 +255,23 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 * [Análise e Levantamento de Requisitos de Software](https://www.udemy.com/course/analise-de-requisitos-de-software/)
 
 * [Noções básicas de DA (Disciplined Agile) - Portuguese LatAm](https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197)
+
+### 11.1. Cursos no ENAP
+
+Acessem com o email institucional:
+
+|Descrição | Assunto |
+| ---------| -----------|
+| [Design de Aplicativos na Transformação Digital](https://www.escolavirtual.gov.br/curso/803)| UX |
+|[UX Writing para Transformação Digital](https://www.escolavirtual.gov.br/curso/813)| UX |
+| [Design Sprint em Projetos de Transformação Digital](https://www.escolavirtual.gov.br/curso/528) | Projeto de Sprints |
+|[UX: Como Melhorar a Experiência do Usuário no Serviço Público Digital](https://www.escolavirtual.gov.br/curso/537) | UX |
+|[Inteligência Artificial Generativa](https://www.escolavirtual.gov.br/curso/1091) | IA |
+|[A Evolução das buscas Online](https://www.escolavirtual.gov.br/curso/1092) | Mecanismos de buscas |
+|[Análise de dados como suporte à tomada de decisão](https://www.escolavirtual.gov.br/curso/406)| Estatísticas |
+|[Inteligência Artificial no Contexto do Serviço Público](https://www.escolavirtual.gov.br/curso/377)| IA |
+|[Aprendendo com Python](https://www.escolavirtual.gov.br/curso/629)| Python |
+
 
 ---
 ## 12. Lista de ferramentas

@@ -69,9 +69,9 @@ Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> docume
 ---
 #### 1.4.1 Unidade de avaliação
 
-Avaliação 1: 12/08/2024 <br>
-Avaliação 2: 16/08/2024 <br>
-Avaliação 3: 17/08/2024 <br>
+Avaliação 1: 12/08/2024
+Avaliação 2: 16/08/2024
+Avaliação 3: 17/08/2024
 
 #### 1.4.2. Atividades para alunos em guarda religiosa
 
@@ -283,6 +283,7 @@ Acessem com o email institucional:
 
 ---
 ## 13. Curiosidade... onde adquirir livros baratos? 
+
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
@@ -312,10 +313,10 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 ---
 ## 16. Videos recomendados
 
-1. "NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024 https://www.youtube.com/watch?v=M-rlucvPG94
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
-2. Scrum Master é um Inútil (não é só sobre isso) https://www.youtube.com/watch?v=1eGSPUN0sj4
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 
-3. TIOZÃO DA FEBRABAN TEM RAZÃO https://www.youtube.com/watch?v=Qjmmug9S3rI
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
 
 

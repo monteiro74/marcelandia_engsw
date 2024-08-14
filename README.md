@@ -27,11 +27,11 @@ Turma de Marcelândia.
   - [8. Grupos no Telegram](#8-grupos-no-telegram)
   - [9. Artigos](#9-artigos)
   - [10. Referências](#10-referências)
-    - [10.1. Cursos gratuítos:](#101-cursos-gratuítos)
-  - [11. Lista de ferramentas](#11-lista-de-ferramentas)
-  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
-    - [12.1. Extensões para VS Code](#121-extensões-para-vs-code)
-    - [12.2. Como estudar](#122-como-estudar)
+  - [11. Cursos gratuítos:](#11-cursos-gratuítos)
+  - [12. Lista de ferramentas](#12-lista-de-ferramentas)
+  - [13. Curiosidade... onde adquirir livros baratos?](#13-curiosidade-onde-adquirir-livros-baratos)
+  - [14. Extensões para VS Code](#14-extensões-para-vs-code)
+  - [15. Como estudar](#15-como-estudar)
 
 
 ---
@@ -247,7 +247,7 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
 ---
-### 10.1. Cursos gratuítos:
+## 11. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -256,21 +256,21 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 * [Noções básicas de DA (Disciplined Agile) - Portuguese LatAm](https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197)
 
 ---
-## 11. Lista de ferramentas
+## 12. Lista de ferramentas
 
 
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 12. Curiosidade... onde adquirir livros baratos? 
+## 13. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-### 12.1. Extensões para VS Code
+## 14. Extensões para VS Code
 
 **Alguns exemplos** de extenções para o Visual Studio Code que o professor utiliza:
 
@@ -285,7 +285,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-### 12.2. Como estudar
+## 15. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 

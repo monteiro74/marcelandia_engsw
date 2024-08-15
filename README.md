@@ -9,13 +9,13 @@ Turma de Marcelândia.
 - [marcelandia\_engsw](#marcelandia_engsw)
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-mar-016---engenharia-de-software-60h---turma-01-20242)
-    - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
-    - [1.2. Ementa](#12-ementa)
-    - [1.3. Metodologia](#13-metodologia)
-    - [1.4. Procedimentos de avaliação de aprendizagem](#14-procedimentos-de-avaliação-de-aprendizagem)
-      - [1.4.1 Unidade de avaliação](#141-unidade-de-avaliação)
-      - [1.4.2. Atividades para alunos em guarda religiosa](#142-atividades-para-alunos-em-guarda-religiosa)
-    - [1.5. Horário de atendimento](#15-horário-de-atendimento)
+  - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
+  - [1.2. Ementa](#12-ementa)
+  - [1.3. Metodologia](#13-metodologia)
+  - [1.4. Procedimentos de avaliação de aprendizagem](#14-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.4.1 Unidade de avaliação](#141-unidade-de-avaliação)
+  - [1.4.2. Atividades para alunos em guarda religiosa](#142-atividades-para-alunos-em-guarda-religiosa)
+  - [1.5. Horário de atendimento](#15-horário-de-atendimento)
   - [2. Datas de aulas e conteúdo](#2-datas-de-aulas-e-conteúdo)
   - [3. Sites utilizados](#3-sites-utilizados)
   - [4. Repositórios de apoio](#4-repositórios-de-apoio)
@@ -40,19 +40,19 @@ Turma de Marcelândia.
 ---
 ## 1. Turma: FACET-MAR-016 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
 
-### 1.1. Carga Horária Total: 60
+## 1.1. Carga Horária Total: 60
 
-### 1.2. Ementa
+## 1.2. Ementa
 
 Processos de software. Métodos tradicionais de análise de sistemas. Métodos ágeis de análise e desenvolvimento de software. Introdução a UML. Projeto de Software.
 
-### 1.3. Metodologia
+## 1.3. Metodologia
 
 Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
 Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio 
 
-### 1.4. Procedimentos de avaliação de aprendizagem
+## 1.4. Procedimentos de avaliação de aprendizagem
 
 Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
@@ -68,7 +68,7 @@ Avaliação 3: Projeto de sistema **"rodando"** em IDE RAD + BD MySQL --> docume
 
 
 ---
-#### 1.4.1 Unidade de avaliação
+## 1.4.1 Unidade de avaliação
 
 Avaliação 1: 12/08/2024
 
@@ -76,7 +76,7 @@ Avaliação 2: 16/08/2024
 
 Avaliação 3: 17/08/2024
 
-#### 1.4.2. Atividades para alunos em guarda religiosa
+## 1.4.2. Atividades para alunos em guarda religiosa
 
 1. Para o dia 9/08/2024, o resumo do [artigo 1(Definição de requisitos de software baseada numa arquitetura de modelagem de negócios)](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/), faça em PDF, envie via Sigaa, até 12/08/2024, com principal atenção: a seção "ATIVIDADES PARA SISTEMATIZAÇÃO DO LEVANTAMENTO DE REQUISITOS".
 
@@ -84,7 +84,7 @@ Avaliação 3: 17/08/2024
 
 
 
-### 1.5. Horário de atendimento
+## 1.5. Horário de atendimento
 
 30 minutos antes da aula (via agendamento prévio).
 

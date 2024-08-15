@@ -155,6 +155,10 @@ Site: https://monteiro74.github.io/documentacao_doxygen/
 
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
+Exemplo de formulário gerado por prompt:
+
+![https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/formularios/formulario_gerado_por_prompt.png](https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/formularios/formulario_gerado_por_prompt.png)
+
 ---
 ## 7. Ferramentas para diagramação com UML
 

@@ -240,6 +240,10 @@ Outros grupos de ofertas de peças, memórias e equipamentos no Telegram:
 
 [O que é engenharia de prompts?](https://www.ibm.com/br-pt/topics/prompt-engineering)
 
+[O Que é UX Design? Dicas para Carreira e Mais](https://www.hostinger.com.br/tutoriais/o-que-e-ux-design)
+
+[UX Design: tudo sobre a área, carreira, salários e como começar](https://blog.somostera.com/ux-design/o-que-e-ux-design-guia-completo)
+
 ---
 ## 10. Referências
 

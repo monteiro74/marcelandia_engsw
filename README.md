@@ -145,7 +145,7 @@ Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase
 ---
 ## 6. Exemplos de documentações
 
-Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
+Documentações geradas no Doxygen disponibilizado em repositório no github como site online:
 
 Projeto 1:
 Página no github: https://github.com/monteiro74/documentacao_doxygen

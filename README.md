@@ -23,7 +23,7 @@ Turma de Marcelândia.
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
     - [7.1. Ferramentas para laboratório](#71-ferramentas-para-laboratório)
-    - [7.2. Benchmar/informações de hardware](#72-benchmarinformações-de-hardware)
+    - [7.2. Benchmark/informações de hardware](#72-benchmarkinformações-de-hardware)
   - [8. Grupos no Telegram](#8-grupos-no-telegram)
   - [9. Artigos](#9-artigos)
     - [9.1. Outros artigos em sites/blogs](#91-outros-artigos-em-sitesblogs)
@@ -185,7 +185,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
 
 
-### 7.2. Benchmar/informações de hardware
+### 7.2. Benchmark/informações de hardware
 
 | Ferramenta | Url |
 | --- | --- |

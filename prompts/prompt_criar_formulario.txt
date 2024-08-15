@@ -1,0 +1,16 @@
+Criar um formulário HTML5 e CSS que tenha os seguintes elementos:
+1. Uma barra no topo da tela com o título "cadastro de pets", denominada bar1
+2. Uma barra abaixo do topo com botões, denominada bar2
+3. Na barra de botões (bar2) coloque os seguintes botões:
+um botão chamado "pesquisar" com ícone de lupa
+um botão "salvar" com um ícone de disquete
+um botão "imprimir" com um ícone de impressora
+um botão "deletar" com um ícone de lixeira
+um botão botão "editar" com um ícone de lápis
+um botão "sair" com um ícone de uma porta aberta
+4. Coloque abaixo da barra de botões (bar2) um área de campos denominada campos1.
+5. Coloque os labels e edits para os seguintes campos:
+Id do pet
+Nome do Pet
+Raça do Pet
+Dono do Pet

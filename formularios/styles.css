@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.bar1 {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.bar2 {
+    background-color: #555;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.bar2 .btn {
+    background-color: #777;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bar2 .btn i {
+    margin-right: 8px;
+}
+
+.bar2 .btn:hover {
+    background-color: #888;
+}
+
+.campos1 {
+    margin: 20px auto;
+    padding: 20px;
+    width: 50%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.campos1 form {
+    display: flex;
+    flex-direction: column;
+}
+
+.campos1 label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.campos1 input {
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

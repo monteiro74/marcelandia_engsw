@@ -23,7 +23,7 @@ Turma de Marcelândia.
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
     - [7.1. Ferramentas para laboratório](#71-ferramentas-para-laboratório)
-    - [7.2. Benchmar/info de hardware](#72-benchmarinfo-de-hardware)
+    - [7.2. Benchmar/informações de hardware](#72-benchmarinformações-de-hardware)
   - [8. Grupos no Telegram](#8-grupos-no-telegram)
   - [9. Artigos](#9-artigos)
   - [10. Referências](#10-referências)
@@ -118,7 +118,7 @@ Avaliação 3: 17/08/2024
 | Curso tutorial python | https://github.com/monteiro74/tutorial_python |
 | Aprendizado de máquina | https://github.com/monteiro74/aprendizado_de_maquina |
 | Exemplo de documentação feita com Doxygen | https://github.com/monteiro74/documentacao_doxygen |
-| Documentação em UML feita com Star UML | https://github.com/monteiro74/documentacao_uml |
+
 
 
 ---
@@ -154,12 +154,6 @@ Página no github: https://github.com/monteiro74/documentacao_doxygen
 Site: https://monteiro74.github.io/documentacao_doxygen/
 
 
-Projeto 2:
-Página no github: https://github.com/monteiro74/documentacao_uml
-
-Site: https://monteiro74.github.io/documentacao_uml/
-
-
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ---
@@ -190,7 +184,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 | 11. Virtual Box | https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe |
 
 
-### 7.2. Benchmar/info de hardware
+### 7.2. Benchmar/informações de hardware
 
 | Ferramenta | Url |
 | --- | --- |
@@ -279,6 +273,7 @@ Acessem com o email institucional:
 ---
 ## 12. Lista de ferramentas
 
+Repositório montado pelo Prof. com várias ferramentas listadas por categorias:
 
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 

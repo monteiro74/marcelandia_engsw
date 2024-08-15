@@ -35,6 +35,7 @@ Turma de Marcelândia.
   - [14. Extensões para VS Code](#14-extensões-para-vs-code)
   - [15. Como estudar](#15-como-estudar)
   - [16. Videos recomendados](#16-videos-recomendados)
+  - [17. Jogo The Work In Progress Game](#17-jogo-the-work-in-progress-game)
 
 
 ---
@@ -327,4 +328,9 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
 
+## 17. Jogo The Work In Progress Game
+
+https://analytics.actionableagile.com/twig/index.html
+
+![https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png](https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png)
 

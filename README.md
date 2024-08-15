@@ -98,12 +98,12 @@ Avaliação 3: 17/08/2024
 | Aula 4: (08/agosto) | [Scrum + Kanban (continuação)](https://docs.google.com/presentation/d/1dhVjJTcgaKO8aiiCtA1u_28nIHg62wPr6MClcwK7UFg/edit?usp=view), [UML (continuação)](https://docs.google.com/presentation/d/1o6K2I3J_MaN1sN-xO8rBSALXaaVJ1eu-Z2g0mYdfBrU/edit?usp=view), [exercício (continuação)](https://docs.google.com/presentation/d/1pv7XMzqSB1sxMp7CvksF0chaXleyoD67A8xZrdQOyh0/edit?usp=view). |
 | Aula 5: (09/agosto) | Revisão de banco de dados, execução de scripts SQL, gerar modelo ER, edição de markdown, atualizar repositório no github, instalação de extensões no VS Code. |
 | Aula 6: (10/agosto, sábado) | Início da avaliação 2: (trabalho de diagramas deve ser colocado no github do aluno e compartilhado com o professor) --> Projeto de sistema (exercício visto em sala) postado no github no repositório criado pelo aluno e compartilhado com o professor, contendo diagramas de sistema. [Enunciado do exercício](https://docs.google.com/document/d/1fQiaZJNjGhymjDUpWrbEQUu4cznKEuafAsjHP8jyuYE/edit?usp=view).|
-| Aula 7: (12/agosto) | Avaliação 1 (**prova escrita**). Início do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Usos de VM (virtual machine), instalação e configuração de VMs. Criação de projeto em IDE RAD, desenvolvimento de menu, grids e forms. Revisão do BD e script de BD. |
-| Aula 8: (13/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Métodos RAD. |
-| Aula 9: (14/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Documentação de software.  |
-| Aula 10: (15/agosto) | Apresentação do projeto **rodando** desenvolvido com ferramenta IDE RAD (avaliação 3). Finalização do projeto de **documentação** e postagem final no github (avaliação 2). Outros assuntos: Qualidade de software. |
-| Aula 11: (16/agosto) | Projetos de ERP, IoT, dashboards, web+mobile. |
-| Aula 12: (17/agosto, sábado) | Entrega de trabalho (avaliação 3). Finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
+| Aula 7: (12/agosto) | Avaliação 1 (**prova escrita**). Início do projeto de sistemas com ferramenta IDE RAD. Outros assuntos: Usos de VM (virtual machine), instalação e configuração de VMs. Criação de projeto em IDE RAD, desenvolvimento de menu, grids e forms. Revisão do BD e script de BD. Criação de interfaces com o Draw.IO.|
+| Aula 8: (13/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD (criar banco de dados, popular banco, gerar telas (grids e forms e menus), compilar e rodar aplicações). Uso de IA no processo de documentação de banco de dados e diagramas. Atualizar documentação de software em repositório público (github). Conceitos de Engenharia de Prompt e UX. Comparativo Draw.IO vs Modelio. |
+| Aula 9: (14/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD (geração de gráficos, forms + grids, módulo de segurança, empacotar aplicação, deploy de aplicação em servidor web). Comentar sobre hospedagem web. Gerar documentação com auxílio de IA (casos de uso e diagramas com PlantUML) e gerar diagramas no Draw.IO com PlantUML. Criação de formulários com IA em HTML5 e CSS.  |
+| Aula 10: (15/agosto) | **Avaliação 2**: finalização da documentação de sistema (em repositório público (Github) compartilhado com o professor). **Avaliação 3**: Apresentação do projeto **rodando** desenvolvido com ferramenta IDE RAD. Outros assuntos. |
+| Aula 11: (16/agosto) | Projetos de ERP, IoT, dashboards, web+mobile. Revisão de VM. Formatação de Markdown. |
+| Aula 12: (17/agosto, sábado) | Entrega de trabalho (**avaliação 2 e 3**). Último fase para finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 
 ---

@@ -355,21 +355,3 @@ https://analytics.actionableagile.com/twig/index.html
 
 ![https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png](https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png)
 
-
-```mermaid
-graph TD
-    A[Cliente Web] -->|HTTP Request| B[Servidor Web]
-    B -->|Executa| C[Aplicação PHP]
-    C -->|Consulta| D[Servidor de Banco de Dados]
-    D -->|Resposta| C
-    C -->|Resposta| B
-    B -->|HTTP Response| A
-```
-
-
-
-
-
-Desenhe um diagrama usando Markdown que contenha um servidor web, um servidor de banco dados, um cliente web, uma aplicação php e a relação entre eles.
-
-

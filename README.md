@@ -322,6 +322,9 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 **Alguns exemplos** de extenções para o Visual Studio Code que o professor utiliza:
 
+
+<img src="[http://....jpg](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)" width="200" height="200" />
+
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20001.PNG)

@@ -152,6 +152,7 @@ Até 16/08 temos os seguintes:
 |RODRIGO DO NASCIMENTO |	https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX |
 |RUAN CONCEIÇÃO DA SILVA	| https://github.com/Pixote2005/Ruan_Silva |
 |SUZANE SOUZA RUAS |	https://github.com/suzane89/Suzane_Ruas|
+| Pierre | https://github.com/pierre791/-Pierre.neres |
 
 ---
 ## 5. Diagrama entidade relacionamento (de exercício 1)
@@ -323,7 +324,6 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 **Alguns exemplos** de extenções para o Visual Studio Code que o professor utiliza:
 
 
-<img src="[http://....jpg](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)" width="200" height="200" />
 
 ![https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG](https://github.com/monteiro74/marcelandia_engsw/blob/main/extensoes_vs_code/figura%20000.PNG)
 

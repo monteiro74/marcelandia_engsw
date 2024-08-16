@@ -19,6 +19,7 @@ Turma de Marcelândia.
   - [2. Datas de aulas e conteúdo](#2-datas-de-aulas-e-conteúdo)
   - [3. Sites utilizados](#3-sites-utilizados)
   - [4. Repositórios de apoio](#4-repositórios-de-apoio)
+    - [4.1. Repositórios dos alunos](#41-repositórios-dos-alunos)
   - [5. Diagrama entidade relacionamento (de exercício 1)](#5-diagrama-entidade-relacionamento-de-exercício-1)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Ferramentas para diagramação com UML](#7-ferramentas-para-diagramação-com-uml)
@@ -133,6 +134,24 @@ Avaliação 3: 17/08/2024<br>
 | Projeto com Evolus Pencil | https://github.com/monteiro74/prototipacao_mobile_evoluspencil |
 
 
+### 4.1. Repositórios dos alunos
+
+Até 16/08 temos os seguintes:
+
+| Repositório | Url |
+| --- | --- |
+| ABNER LOHAN CAÇULA SILVA |	https://github.com/AbnerLohan/Abner_Lohan_projeto01_engsw |
+|CASSIO BERNARDO |	https://github.com/cassiobernardo1989/Cassio_Bernardo |
+|DENNER FERREIRA DE MORAIS |	https://github.com/Denner67/Denner_Ferreira |
+|FABIO JUNIOR DE SOUZA |	https://github.com/FabioJrdeSouza/fabio_souza |
+|GABRIEL CARVALHO DA SILVA |	https://github.com/Gabriel-Carvalho27/Gabriel_Carvalho-Projeto-engenharia-de-software |
+|GEAZY ALVES LACERDA |	https://github.com/geazy-alves/geazy_alves |
+|ISABELLE HISTER |	https://github.com/isa-hister/isabelle_hister |
+|MYCHELL MARQUES DA SILVA |	https://github.com/MychellMDS/Mychell_Silva |
+|NICOLY SAMARA FIORINDO |	https://github.com/Kcinom/Nicoly_Fiorindo |
+|RODRIGO DO NASCIMENTO |	https://github.com/rodrigoo034/Rodrigo_Nasciemento_projetoX |
+|RUAN CONCEIÇÃO DA SILVA	| https://github.com/Pixote2005/Ruan_Silva |
+|SUZANE SOUZA RUAS |	https://github.com/suzane89/Suzane_Ruas|
 
 ---
 ## 5. Diagrama entidade relacionamento (de exercício 1)

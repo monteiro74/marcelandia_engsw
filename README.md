@@ -102,7 +102,7 @@ Avaliação 3: 17/08/2024<br>
 | Aula 8: (13/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD (criar banco de dados, popular banco, gerar telas (grids e forms e menus), compilar e rodar aplicações). Uso de IA no processo de documentação de banco de dados e diagramas. Atualizar documentação de software em repositório público (github). Conceitos de [Engenharia de Prompt](https://www.alura.com.br/artigos/engenharia-prompt?srsltid=AfmBOoqD5OiUECgKVRbBS0UqrDWuB26hMpU_lOuBMBWgMZokjS5CnSUS) ([exemplo de prompt](https://github.com/monteiro74/marcelandia_engsw/tree/main/prompts)) e UX . Comparativo ferramentas de desenho (ex: Draw.IO) vs ferramentas de diagramação UML (ex: Modelio). |
 | Aula 9: (14/agosto) | Continuação do projeto de sistemas com ferramenta IDE RAD (geração de gráficos, forms + grids, módulo de segurança, empacotar aplicação, deploy de aplicação em servidor web). Comentar sobre hospedagem web. Gerar documentação com auxílio de IA (casos de uso e diagramas com PlantUML) e gerar diagramas no Draw.IO com PlantUML. [Criação de formulários com IA em HTML5 e CSS](https://github.com/monteiro74/marcelandia_engsw/tree/main/formularios).  |
 | Aula 10: (15/agosto) | **Avaliação 2**: finalização da documentação de sistema (em repositório público (Github) compartilhado com o professor). **Avaliação 3**: Apresentação do projeto **rodando** desenvolvido com ferramenta IDE RAD. Outros assuntos. |
-| Aula 11: (16/agosto) | Projetos de ERP, IoT, dashboards, web+mobile. Revisão de VM. Formatação de Markdown. |
+| Aula 11: (16/agosto) | [Teste e verificação de software](https://docs.google.com/presentation/d/1t6lUFCKaQKQLO-r9CMyK4yKzBg4VetLuRnkSLXNmmck/view). [Arquitetura, RAD, Componentes, UX, Outros assuntos](https://docs.google.com/presentation/d/1JVNxtutopqODmoHUCZlDy7aFqrgB7NSkmVg863BSy28/view). Finalização dos trabalhos 2 (avaliação 2) e 3 (avaliação 3). |
 | Aula 12: (17/agosto, sábado) | Entrega de trabalho (**avaliação 2 e 3**). Último fase para finalização do projeto com ferramenta IDE/RAD, envio de trabalho final. |
 
 
@@ -335,4 +335,22 @@ The Work In Progress
 https://analytics.actionableagile.com/twig/index.html
 
 ![https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png](https://raw.githubusercontent.com/monteiro74/marcelandia_engsw/main/kanban_TWIG.png)
+
+
+```mermaid
+graph TD
+    A[Cliente Web] -->|HTTP Request| B[Servidor Web]
+    B -->|Executa| C[Aplicação PHP]
+    C -->|Consulta| D[Servidor de Banco de Dados]
+    D -->|Resposta| C
+    C -->|Resposta| B
+    B -->|HTTP Response| A
+```
+
+
+
+
+
+Desenhe um diagrama usando Markdown que contenha um servidor web, um servidor de banco dados, um cliente web, uma aplicação php e a relação entre eles.
+
 
